@@ -18,4 +18,4 @@ def fizzbuzz(num):
         elif i % 5 == 0:
             print(f"{i} - buzz")
         
-fizzbuzz(100)
+fizzbuzz(100) 
